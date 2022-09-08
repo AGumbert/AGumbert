@@ -5,7 +5,7 @@
 
 - Enjoys working in Python, Java, ProcessingJS, C++, and other languages
 - Interested in intersection between computer science and cognitive science, 
-   such as with artificial intelligence or human-computer interactions. 
+   including artificial intelligence and human-computer interaction. 
    
    
  - andrew.gumbert@tufts.edu

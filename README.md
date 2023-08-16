@@ -3,9 +3,9 @@
 - Double major in computer science and cognitive and brain science
 
 
-- Enjoys working in Python, Java, ProcessingJS, C++, and other languages
-- Interested in intersection between computer science and cognitive science, 
-   including artificial intelligence and human-computer interaction. 
+- Enjoys working in Python, Java, ProcessingJS, C++, Matlab, and other languages
+- Interested in intersection between computer science, cognitive science, and life science, 
+   including artificial intelligence, bioinformatics, and healthcare informatics. 
    
    
  - andrew.gumbert@tufts.edu

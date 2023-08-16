@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AGumbert
 - Tufts University Class of 2024
-- Double major in computer science and cognitive and brain science
+- Double major in Computer Science and Cognitive and Brain Science
 
 
 - Enjoys working in Python, Java, ProcessingJS, C++, MATLAB, and other languages

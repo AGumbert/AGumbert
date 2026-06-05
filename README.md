@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @AGumbert
 
-- Tufts University Class of 2024
-- Double major in Computer Science and Cognitive and Brain Science
+- Tufts University Class of 2024: Double major in Computer Science and Cognitive and Brain Science
 
-- Harvard Medical School Class of 2026
-- MMSc in Biomedical Informatics
+- Harvard Medical School Class of 2026: Master of Medical Sciences in Biomedical Informatics
 
 
 
